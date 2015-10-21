@@ -1,7 +1,6 @@
 hello from asidirop
-<<<<<<< HEAD
 hello from tasval
-=======
 Hello from akoutou75
 Hello joined with sofoklis
->>>>>>> origin/master
+
+Hello from sofoklis1924
