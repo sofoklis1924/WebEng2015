@@ -1,5 +1,14 @@
 hello from asidirop
+<<<<<<< HEAD
 Hello from johnny too.
 Hello from akoutou75
 Hello joined with sofoklis
 
+=======
+hello from tasval
+Hello from akoutou75
+Hello joined with sofoklis
+
+Hello from sofoklis1924
+continue test..
+>>>>>>> origin/master
